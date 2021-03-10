@@ -1,0 +1,77 @@
+/* this is a comment */
+
+h1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 72px;
+  color:rgb(142, 17, 153);
+  text-align: center;
+}
+
+h2 {
+  font-family: fantasy;
+  font-size: 35px;
+  color: rgb(107, 57, 223);
+  text-align: center;
+}
+
+h3{
+  font-family: cursive;
+  font-size: 24px;
+  text-align: center;
+}
+
+h6{
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  background-color: rgb(100, 22, 22);
+}
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;  
+  text-align:center;
+}
+
+header{
+  height: 300px; 
+  background: url(images/pasture-scene.jpg);
+  background-size: cover;
+}
+
+header h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: blue;
+}
+
+header h2{
+  font-family: fantasy;
+  color: white;
+  background-color: gray
+}
+
+a {
+  font-family: 'Courier New', Courier, monospace;
+  text-align:center;
+ }
+
+.border-box{
+  width: 400px;
+  background: rgb(245, 201, 230);
+  padding: 20px;
+  border: 5px solid;
+  margin: auto;
+}
+
+footer a{
+  font-size: 18px;
+  color: rgb(145, 196, 196);
+  text-align: center;
+  Background: rgb(46, 46, 150);
+}
+
+footer {
+  font-size: 18px;
+  color: rgb(145, 196, 196);
+  text-align: center;
+  Background: rgb(46, 46, 150);
+}
