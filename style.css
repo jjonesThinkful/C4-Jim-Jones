@@ -49,10 +49,10 @@ header h2{
   background-color: gray
 }
 
-/* a {
+a {
   font-family: 'Courier New', Courier, monospace;
   text-align:center;
- } */
+ }
 
 .border-box{
   width: 400px;
@@ -62,12 +62,6 @@ header h2{
   margin: auto;
   border-radius: 55px;
 }
-.navbar{
-  background: rgb(245, 201, 230);
-  padding: 20px;
-  border: 5px solid;
-  margin: auto;
-}
 
 footer a{
   font-size: 18px;
@@ -76,11 +70,17 @@ footer a{
   Background: rgb(46, 46, 150);
 }
 
+footer {
+  font-size: 18px;
+  color: rgb(145, 196, 196);
+  text-align: center;
+  Background: rgb(46, 46, 150);
+}
 
-/* li a{
+li a{
   font-family: fantasy;
   font-size: 22px;
-} */
+}
 
 hr{
   height: 15px;
@@ -97,3 +97,6 @@ img{
   border-radius: 20%;
 }
 
+.jj-images{
+  
+}
